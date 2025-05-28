@@ -70,11 +70,13 @@ Yoo Sangah spoke in a soft voice.
 "Hyung, are we going to get the legendary sword?"
 "No, not right now."
 Of course, I could find the Four Yin Demonic Beheading Sword in this dungeon. That's why I sowed the information.
-<!>[Please select the type of dungeon you want to enter.]
++
+[Please select the type of dungeon you want to enter.]
 * Single player dungeon – Nagak
 * Three person dungeon – Acupuncture Copper Man
 * Five person dungeon – Dongui Bogam (Korean book compiled by a royal physician, considered as one of the classics of Oriental medicine)
 * Seven person dungeon – Dragon Jar
++
 However, the dungeon with the Four Yin Demonic Beheading Sword couldn't be entered in a normal manner. It was because the dungeon was only accessible using the Sang Pyong Tong Bo coin which was given as a reward when clearing a dungeon.
 "I will choose the three person dungeon, the Acupuncture Copper Man."
 <!>[You have entered the three person dungeon.]
